@@ -28,6 +28,9 @@ This repository is more than just a collection of projects; it's a guide for beg
 |                      |[DISEASE PREDICTION](https://github.com/Shashwat-Akhilesh-Shukla/CLASSICAL-ML-PROJECTS/blob/main/DECISION%20TREE/Disease%20Prediction%20tree/Diseasepred_decision_tree.ipynb) |
 | [Random Forest]      |[WINE QUALITY PREDICTION](https://github.com/Shashwat-Akhilesh-Shukla/CLASSICAL-ML-PROJECTS/blob/main/RANDOM%20FOREST/Wine%20Quality%20Prediction/wine_classification_Random_forest.ipynb)                         | | Classify wine quality through an ensemble of decision trees in a random forest.                                 |
 | [Hierarchical Clustering]|[SPECIES CLASSIFICATION](https://github.com/Shashwat-Akhilesh-Shukla/CLASSICAL-ML-PROJECTS/blob/main/HIERARCHICAL%20CLUSTERING/Species%20classification/zoo_classification.ipynb)       | Classify species based on features like size and weight using hierarchical clustering.                         |
+|[SVM] | [BINARY CLASSIFICATION -- IRIS](https://github.com/Shashwat-Akhilesh-Shukla/CLASSICAL-ML-PROJECTS/blob/main/SVM/binary_classifier_svm%20(1).py)| Classify whether a given iris flower is setosa or not |
+|      | [DIGIT CLASSIFICATION -- MNIST](https://github.com/Shashwat-Akhilesh-Shukla/CLASSICAL-ML-PROJECTS/blob/main/SVM/mnist_svm.py)| Using MNIST dataset to classify digits |
+
 
 ## 🚀 Your Learning Journey Begins!
 

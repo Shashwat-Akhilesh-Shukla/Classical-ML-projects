@@ -30,6 +30,8 @@ Dive into more than just a compilation of projects; this repository is a guide c
 | [Hierarchical Clustering]|[SPECIES CLASSIFICATION](https://github.com/Shashwat-Akhilesh-Shukla/CLASSICAL-ML-PROJECTS/blob/main/HIERARCHICAL%20CLUSTERING/Species%20classification/zoo_classification.ipynb)       | Classify species based on features like size and weight using hierarchical clustering.                         |
 |[SVM] | [BINARY CLASSIFICATION -- IRIS](https://github.com/Shashwat-Akhilesh-Shukla/CLASSICAL-ML-PROJECTS/blob/main/SVM/binary_classifier_svm%20(1).py)| Classify whether a given iris flower is setosa or not |
 |      | [DIGIT CLASSIFICATION -- MNIST](https://github.com/Shashwat-Akhilesh-Shukla/CLASSICAL-ML-PROJECTS/blob/main/SVM/mnist_svm.py)| Using MNIST dataset to classify handwritten digits |
+|KNN   | [MNIST_DIGIT_CLASSIFICATION_KNN](https://github.com/Shashwat-Akhilesh-Shukla/CLASSICAL-ML-PROJECTS/blob/main/KNN/mnist_KNN.ipynb)|Use KNN algorithm to claasify digits from the infamous MNIST dataset|
+|      | [ANIME RECOMMENDATION SYSTEM](https://github.com/Shashwat-Akhilesh-Shukla/CLASSICAL-ML-PROJECTS/blob/main/KNN/movie_recommendation_KNN.ipynb)|Recommend anime to the user based on thier favourite anime with similar features|
 
 ## 🚀 Embark on Your Learning Journey!
 

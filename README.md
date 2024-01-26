@@ -32,7 +32,7 @@ Dive into more than just a compilation of projects; this repository is a guide c
 |      | [DIGIT CLASSIFICATION -- MNIST](https://github.com/Shashwat-Akhilesh-Shukla/CLASSICAL-ML-PROJECTS/blob/main/SVM/mnist_svm.py)| Using MNIST dataset to classify handwritten digits |
 |KNN   | [MNIST_DIGIT_CLASSIFICATION_KNN](https://github.com/Shashwat-Akhilesh-Shukla/CLASSICAL-ML-PROJECTS/blob/main/KNN/mnist_KNN.ipynb)|Use KNN algorithm to claasify digits from the infamous MNIST dataset|
 |      | [ANIME RECOMMENDATION SYSTEM](https://github.com/Shashwat-Akhilesh-Shukla/CLASSICAL-ML-PROJECTS/blob/main/KNN/movie_recommendation_KNN.ipynb)|Recommend anime to the user based on thier favourite anime with similar features|
-
+|SGD   | [STROKE(brain stroke) CLASSIFICATION](https://github.com/Shashwat-Akhilesh-Shukla/CLASSICAL-ML-PROJECTS/blob/main/stroke_classification.py) |Using Stochastic Gradient Descent algorithm to classify and predict Cerebrovascular accident Stroke| 
 ## 🚀 Embark on Your Learning Journey!
 
 Feel the thrill of exploring each project at your own pace. Uncover not just the code but also detailed explanations to ensure your learning experience is both seamless and enjoyable.

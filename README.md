@@ -65,8 +65,15 @@ To run the projects, follow these steps:
 7. Test the model on the test set and make predictions.
 8. Visualize results and evaluate your model.
 
-## 🤖✨ Let's Connect!
+## 🤝 Let's Connect!
 
-Learning is a collaborative journey, and I'm excited to be part of yours. Reach out, share your thoughts, pose questions, and let's foster a vibrant community of learners passionate about machine learning.
+Learning is a collaborative journey, and I'm thrilled to be part of yours. Feel free to connect with me:
+
+- **Email:** shashwatakhileshshukla@gmail.com
+- **LinkedIn:** (https://www.linkedin.com/in/shashwat-shukla-2a90a525b/)
+
+
+Share your thoughts, ask questions, or simply say hello. Let's build a community of learners passionate about machine learning!
 
 Happy coding! 🤖✨
+
